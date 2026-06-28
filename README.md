@@ -91,8 +91,8 @@ HER takes far longer to converge than RND or ICM (thousands of episodes vs. ~10k
 ## Getting started
 
 ```bash
-git clone https://github.com/K4NG14/sparse-reward-exploration.git
-cd sparse-reward-exploration
+git clone https://github.com/K4NG14/Sparse-Reward-Exploration.git
+cd Sparse-Reward-Exploration
 pip install -r requirements.txt
 
 cd src
